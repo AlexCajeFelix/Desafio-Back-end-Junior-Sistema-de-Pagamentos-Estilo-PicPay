@@ -5,9 +5,9 @@ Este projeto é uma API RESTful para transferências financeiras entre usuários
 
 ## 🛠️ Tecnologias Utilizadas  
 - **Linguagem:** [Java / Node.js / Python] *(Escolha a que usou)*  
-- **Framework:** [Spring Boot / Express.js / Django] *(Escolha o que usou)*  
-- **Banco de Dados:** [PostgreSQL / MySQL / MongoDB] *(Escolha o que usou)*  
-- **Docker** *(se aplicável)*  
+- **Framework:** [Spring Boot / Java] 
+- **Banco de Dados:** [ / MySQL / ] 
+
 
 ## 🏛️ Arquitetura do Projeto  
 A aplicação foi desenvolvida utilizando **Arquitetura Limpa**, separando regras de negócio, casos de uso e infraestrutura para garantir código modular e de fácil manutenção.  
